@@ -89,6 +89,6 @@ Federal University of Santa Maria (UFSM), Brazil
 
 Université de Reims Champagne-Ardenne (URCA), France
 
-[![Linktree](https://linktr.ee/douglima8)](.github/qr_code.png)
-
-<img src=".github/qr_code.png" width="150"/>
+<a href="https://linktr.ee/douglima8">
+  <img src=".github/qr_code.png" width="150"/>
+</a>
