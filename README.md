@@ -85,5 +85,6 @@ original WRF-Chem model and this repository:
 ## Contact
 
 **Douglas Lima de Bem**  
-Federal University of Santa Maria (UFSM), Brazil \\
+Federal University of Santa Maria (UFSM), Brazil
+
 Université de Reims Champagne-Ardenne (URCA), France
