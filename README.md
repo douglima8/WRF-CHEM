@@ -91,4 +91,4 @@ Université de Reims Champagne-Ardenne (URCA), France
 
 [![Linktree](https://linktr.ee/douglima8)](.github/qr_code.png)
 
-<img src=".github/qr_douglima8.png" width="150"/>
+<img src=".github/qr_code.png" width="150"/>
