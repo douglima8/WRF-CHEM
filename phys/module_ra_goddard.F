@@ -1425,7 +1425,7 @@ real, dimension( ims:ime, jms:jme ), intent(in)  :: &
           call checkerror('goddardrad_qg3d','condensate_kg/kg',i,k,j,qg3d(i,k,j) )
 #if (WRF_CHEM == 1)
       if ( (chem_opt == 300 .or. chem_opt == 301 .or. &
-            chem_opt == 302 .or. chem_opt == 303) .and. &
+            chem_opt == 302 .or. chem_opt == 303 .or. chem_opt == 112) .and. &  !! URIX MODIFICATION
             (gsfcrad_gocart_coupling == 1) ) then
          do n = 1, num_go
             call checkerror('goddardrad','aerosol_g/m3'  ,i,k,j,aero(i,k,j,n) )

@@ -2558,7 +2558,7 @@ CONTAINS
         ccn_out(i) = 0.e0
         icn_out(i) = 0.e0
         if ( (chem_opt == 300 .or. chem_opt == 301 .or. &
-              chem_opt == 302 .or. chem_opt == 303) .and. &
+              chem_opt == 302 .or. chem_opt == 303 .or. chem_opt == 112) .and. & !! URIX MODIFICATION
               (gsfcgce_gocart_coupling == 1) ) then
            icn_diag(i,k) = icn_out(i)  ! #/Litre
            nc_diag(i,k) = ccn_out(i)  ! #/cm3
