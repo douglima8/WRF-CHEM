@@ -98,3 +98,4 @@ original WRF-Chem model and this repository:
 &nbsp;&nbsp;
 
 [![Linktree](https://img.shields.io/badge/Linktree-douglima8-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/douglima8)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Douglas--De--Bem-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Douglas-De-Bem)
