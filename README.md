@@ -84,11 +84,17 @@ original WRF-Chem model and this repository:
 
 ## Contact
 
-**Douglas Lima de Bem**  
-Federal University of Santa Maria (UFSM), Brazil
+**Douglas Lima de Bem**
 
-Université de Reims Champagne-Ardenne (URCA), France
+🏛️ Federal University of Santa Maria (UFSM), Brazil  
+🏛️ Université de Reims Champagne-Ardenne (URCA), France
+
+<br>
 
 <a href="https://linktr.ee/douglima8">
-  <img src=".github/qr_code.png" width="150"/>
+  <img src=".github/qr_code.png" width="130"/>
 </a>
+
+&nbsp;&nbsp;
+
+[![Linktree](https://img.shields.io/badge/Linktree-douglima8-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/douglima8)
