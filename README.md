@@ -77,7 +77,7 @@ original WRF-Chem model and this repository:
 > https://doi.org/10.1016/j.atmosenv.2005.04.027
 
 **This repository:**
-> Lima, D. (2024). WRF-Chem v4.5.1 — WRF-Chem Modifications [Source code]. 
+> De Bem, Douglas Lima, et al. (2025). WRF-Chem v4.5.1 — WRF-Chem Modifications [Source code]. 
 > GitHub. https://github.com/douglima8/WRF-CHEM
 
 ---
